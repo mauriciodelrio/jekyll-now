@@ -24,5 +24,5 @@ Por último, en relación a mis intereses personales, soy gamer casual, disfruto
 ### Contacto
 
 [mauricio.delr@gmail.com](mailto:mauricio.delr@gmail.com)
-[linkedin](https://www.linkedin.com/in/mauricio-del-r%C3%ADo-a4b1a98b/
+[linkedin](https://www.linkedin.com/in/mauricio-del-r%C3%ADo-a4b1a98b/)
 [Teléfono](+56962843497)
