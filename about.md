@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Acerca de mí
 permalink: /about/
 ---
 
@@ -13,6 +13,16 @@ MERN En proyectos desafiantes y diversos, también he trabajado coordinando y ge
 		
 En mis proyectos personales, destaco algunos trabajos que he desarrollado con amigos en la universidad, éstos están ligados principalmente al ámbito educacional, contribuyendo con código abierto a la comunidad para el impulso de nuevos proyectos orientados al aprendizaje.
 
+### Intereses
+
+Destaco principalmente mi interés por proyectos ligados a la educación y el desarrollo sustentable, la mayoría de mis proyectos personales [Que puedes encontrar en mi github](https://github.com/mauriciodelrio) están orientados a crear productos de softwares pequeños pensados en ayudar a comunidades.
+
+En cuanto al aspecto tecnológico, trabajo principalmente desarrollando con Javascript (MERN) y en base a metodlogías ágiles. Por otra parte, se me da muy bien la relación con clientes, participando de forma exitosa en roles como scrum master o product manager.
+
+Por último, en relación a mis intereses personales, soy gamer casual, disfruto de unas cervezas con amigos, los animales y la lectura.
+
 ### Contacto
 
 [mauricio.delr@gmail.com](mailto:mauricio.delr@gmail.com)
+[linkedin](https://www.linkedin.com/in/mauricio-del-r%C3%ADo-a4b1a98b/
+[Teléfono](+56962843497)
