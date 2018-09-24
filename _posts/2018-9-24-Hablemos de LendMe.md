@@ -3,8 +3,6 @@ layout: post
 title: Hablemos de LendMe
 ---
 
-###Hablemos de LendMe
-
 Yo sé que les ha pasado que en necesitan pedir una sala y el trámite es horrible, burocrático, sin alertas de disponibilidad.
 Lendme es un producto que nace bajo la necesidad de ayudar a la comunidad universitaria a gestionar y dirigir de mejor forma sus espacios.
 
@@ -14,12 +12,12 @@ Este proyecto desarrollado con un equipo universitario nos abre el mundo a la ne
 
 LendMe es código abierto, sin fines de lucro, dejo el link al repositorio acá: 
 
-####[LendMe](https://github.com/mauriciodelrio/lendme)
+####  [LendMe](https://github.com/mauriciodelrio/lendme)
 
 La idea es que lo puedan visitar, y contribuir en el desarrollo de un producto pensado para comunidades educativas organizadas.
 
 
-####Funcionalidades
+####  Funcionalidades
 
 Algunas funcionalidades básicas que presenta LendMe:
 
@@ -28,7 +26,7 @@ Algunas funcionalidades básicas que presenta LendMe:
 * Notificación vía correo electrónico informando al solicitante si su solicitudde espacio fue aprobada o rechazada, explicando el motivo.
 * Búsqueda, filtros y visualización de los espacios disponibles acordes a las necesidades del usuario y sus respectivos horarios libres.
 
-####Tecnologías
+####  Tecnologías
 
 * Redis para el manejo de concurrencia.
 * Postgresql para el contenedor de datos
