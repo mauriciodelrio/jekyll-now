@@ -16,6 +16,10 @@ LendMe es código abierto, sin fines de lucro, dejo el link al repositorio acá:
 
 La idea es que lo puedan visitar, y contribuir en el desarrollo de un producto pensado para comunidades educativas organizadas.
 
+Acá les dejo un aproach del modelo de datos que utiliza en cuestión:
+
+![]({{ site.baseurl }}/images/lendme/Lendme4.png)
+
 
 ####  Funcionalidades
 
