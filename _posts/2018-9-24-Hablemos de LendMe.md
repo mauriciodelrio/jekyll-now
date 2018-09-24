@@ -6,7 +6,7 @@ title: Hablemos de LendMe
 Yo sé que les ha pasado que en necesitan pedir una sala y el trámite es horrible, burocrático, sin alertas de disponibilidad.
 Lendme es un producto que nace bajo la necesidad de ayudar a la comunidad universitaria a gestionar y dirigir de mejor forma sus espacios.
 
-[]({{ site.baseurl }}/images/lendme/lend-me-logo.png)
+![]({{ site.baseurl }}/images/lendme/lend-me-logo.png)
 
 Este proyecto desarrollado con un equipo universitario nos abre el mundo a la necesidad de implementar sistemas de gestión de espacios automatizados, administrados por la comunidad universitaria y para la comunidad universitaria.
 
