@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bienvenida
+title: Hablemos de LendMe
 ---
 
 ###Hablemos de LendMe
