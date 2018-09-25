@@ -8,7 +8,7 @@ Lendme es un producto que nace bajo la necesidad de ayudar a la comunidad univer
 
 ![]({{ site.baseurl }}/images/lendme/lend-me-logo.png)
 
-Este proyecto desarrollado con un equipo universitario nos abre el mundo a la necesidad de implementar sistemas de gestión de espacios automatizados, administrados por la comunidad universitaria y para la comunidad universitaria.
+Este proyecto desarrollado con un equipo universitario nos abre el mundo a la necesidad de implementar sistemas de gestión de espacios automatizados, administrados por y para la comunidad universitaria.
 
 LendMe es código abierto, sin fines de lucro, dejo el link al repositorio acá: 
 
@@ -27,7 +27,7 @@ Algunas funcionalidades básicas que presenta LendMe:
 
 * Panel de administración y sistema de niveles de usuario
 * Posibilidad de crear horarios masivos en salas para destinar horarios fijos por semestre
-* Notificación vía correo electrónico informando al solicitante si su solicitudde espacio fue aprobada o rechazada, explicando el motivo.
+* Notificación vía correo electrónico informando al solicitante si su solicitud de espacio fue aprobada o rechazada, explicando el motivo.
 * Búsqueda, filtros y visualización de los espacios disponibles acordes a las necesidades del usuario y sus respectivos horarios libres.
 
 ####  Tecnologías
@@ -41,7 +41,7 @@ Es importante señalar que esto es un *prototipo de aplicación*, no está final
 
 #### Contáctame
 
-Si estás interesado en participar, me puedes escribir a [Mi mail](mailto:mauricio.delr@gmail.com)
+Si estás interesado en participar, me puedes escribir a [Mi mail](mailto:mauricio.delr@gmail.com).
 Estaré feliz de tener amigos con quién colaborar.
 
 Saludos! 
