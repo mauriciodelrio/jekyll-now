@@ -15,7 +15,7 @@ El equipo de proyecto que participó en la conceptualización, idea y construcci
 
 Javiera Mendoza            |  Mauricio Del Río        |  Gustavo Rojas          |  Bryan Nuñez
 :-------------------------:|:------------------------:|:-----------------------:|:------------------------
-![]({{ site.baseurl }}/images/carbon/javi.png)  |  ![]({{ site.baseurl }}/images/carbon/mauro.jpg)|  ![]({{ site.baseurl }}/images/carbon/gustavo.jpg):|   ![](h{{ site.baseurl }}/images/carbon/bryan.png)
+![]({{ site.baseurl }}/images/carbon/javi.png) |  ![]({{ site.baseurl }}/images/carbon/mauro.jpg) |  ![]({{ site.baseurl }}/images/carbon/gustavo.jpg) |   ![]({{ site.baseurl }}/images/carbon/bryan.png)
 
 ### Algunas características iniciales
 
@@ -44,7 +44,7 @@ Acá les dejo un aproach del modelo de datos que utiliza en cuestión:
 * Redis para el manejo de concurrencia.
 * Postgresql (10.XX) para el contenedor de datos
 * Node (8.xx) + Express Para el manejo de servidor y peticiones HTTP.
-* React para client side.
+* React-Redux para client side.
 * El servicio vive en dos máquinas distintas.
 
 Es importante señalar que esto es un *prototipo de aplicación*, no está finalizado, sin embargo, a futuro me gustaría concretarlo.
