@@ -30,7 +30,7 @@ Javiera Mendoza            |  Mauricio Del Río        |  Gustavo Rojas         
 
 Carbon es código abierto, sin fines de lucro, dejo el link al repositorio acá: 
 
-####  [Carbon](https://github.com/mauriciodelrio/lendme)
+####  [Carbon-back](https://github.com/mauriciodelrio/carbon)   [Carbon-front](https://github.com/mauriciodelrio/carbon-front)
 
 La idea es que lo puedan visitar, y contribuir en el desarrollo de un producto pensado para comunidades educativas organizadas.
 
