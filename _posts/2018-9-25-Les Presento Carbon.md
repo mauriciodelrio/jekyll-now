@@ -14,10 +14,10 @@ Carbon nace bajo el concepto de red social educativa, la idea en sí es vincular
 ### Algunas características iniciales
 
 * Roles de usuario y tipos de pefiles asociados
-* Posibilidad de gestionar usuarios y material subido *pendiente la posibilidad de administración absoluta del sistema*
+* Posibilidad de gestionar usuarios y material subido (*pendiente la posibilidad de administración absoluta del sistema*)
 * Caja de comentarios de facebook
 * Búsqueda y filtros inteligentes de material para facilitar al estudiante la obtención del mismo.
-* Integración con google drive *A evaluar el hecho de contener los archivos de otra forma*
+* Integración con google drive (*A evaluar el hecho de contener los archivos de otra forma*)
 
 ![]({{ site.baseurl }}/images/carbon/c1.png "Acá algún ejemplo visual")
 
