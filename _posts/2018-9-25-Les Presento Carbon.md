@@ -33,7 +33,7 @@ Acá les dejo un aproach del modelo de datos que utiliza en cuestión:
 ![]({{ site.baseurl }}/images/carbon/MAnalisiscompletofinal.png)
 
 
-####  Tecnologías
+###  Tecnologías
 
 * Redis para el manejo de concurrencia.
 * Postgresql (10.XX) para el contenedor de datos
@@ -43,7 +43,7 @@ Acá les dejo un aproach del modelo de datos que utiliza en cuestión:
 
 Es importante señalar que esto es un *prototipo de aplicación*, no está finalizado, sin embargo, a futuro me gustaría concretarlo.
 
-#### Contáctame
+### Contáctame
 
 Si estás interesado en participar, me puedes escribir a [Mi mail](mailto:mauricio.delr@gmail.com).
 Estaré feliz de tener amigos con quién colaborar.
