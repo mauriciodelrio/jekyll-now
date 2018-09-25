@@ -11,16 +11,6 @@ Hoy les traigo otro proyecto educativo, como estudiantes o ex estudiantes sabrá
 
 Carbon nace bajo el concepto de red social educativa, la idea en sí es vincular universidades para que los estudiantes puedan compartir sus aportes, recibir valoraciones y opiniones por éstos, así, generar retroalimentación entre la comunidad, destacando los grandes aportes que se pueden realizar. Por otra parte las instituciones pueden reguar el contenido asociado a ellas y monitorear que no exista violación a la propiedad intelectual.
 
-El equipo de proyecto que participó en la conceptualización, idea y construcción de este producto es:
-
-Javiera Mendoza            |  Mauricio Del Río        |  
-:-------------------------:|:------------------------:|
-![]({{ site.baseurl }}/images/carbon/javi.png) |  ![]({{ site.baseurl }}/images/carbon/mauro.jpg) |  
-
-Gustavo Rojas              |  Bryan Nuñez
-:-------------------------:|:------------------------:|
-![]({{ site.baseurl }}/images/carbon/gustavo.jpg) |   ![]({{ site.baseurl }}/images/carbon/bryan.png)
-
 ### Algunas características iniciales
 
 * Roles de usuario y tipos de pefiles asociados
