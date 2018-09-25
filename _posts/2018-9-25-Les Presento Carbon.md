@@ -13,8 +13,8 @@ Carbon nace bajo el concepto de red social educativa, la idea en sí es vincular
 
 El equipo de proyecto que participó en la conceptualización, idea y construcción de este producto es:
 
-Javiera Mendoza            |  Mauricio Del Río        |  Gustavo Rojas     |  Bryan Nuñez
-:-------------------------:|:-------------------------:--------------------:------------------------
+Javiera Mendoza            |  Mauricio Del Río        |  Gustavo Rojas          |  Bryan Nuñez
+:-------------------------:|:------------------------:|:-----------------------:|:------------------------
 ![]({{ site.baseurl }}/images/carbon/javi.png)  |  ![]({{ site.baseurl }}/images/carbon/mauro.jpg)|  ![]({{ site.baseurl }}/images/carbon/gustavo.jpg):|   ![](h{{ site.baseurl }}/images/carbon/bryan.png)
 
 ### Algunas características iniciales
