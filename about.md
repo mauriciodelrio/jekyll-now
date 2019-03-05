@@ -4,7 +4,7 @@ title: Acerca de mí
 permalink: /about/
 ---
 
-¡Hola! Mi nombre es Mauricio, tengo 26 años. Actualmente me encuentro estudiando Licenciatura en ciencia de la computación, voy en mi cuarto año, me queda un año y medio para egresar.
+¡Hola! Mi nombre es Mauricio, tengo 26 años. Actualmente me encuentro estudiando Licenciatura en ciencia de la computación, voy en mi quinto año, me queda un año para egresar.
 								
 Me encuentro trabajando en Open Green Road [OGR](http://ogr.cl) Empresa orientada en proyectos educativos para Chile y el mundo.
 		
